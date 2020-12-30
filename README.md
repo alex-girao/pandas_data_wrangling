@@ -1,1 +1,4 @@
-# pandas_data_wrangling
+# Pandas Data Wrangling
+
+## Exemplos
+[Series](Series.py)
