@@ -4,10 +4,10 @@ import pandas as pd
 notas = pd.Series([7.6, 5.0, 8.5, 9.5, 6.4])
 
 # criando as listas de natriculas e nomes
-lst_matriculas = ['M02','M05','M13','M14','M19']
-lst_nomes = ['Bob','Dayse','Bill','Cris','Jimi']
+lista_matriculas = ['M02','M05','M13','M14','M19']
+lista_nomes = ['Bob','Dayse','Bill','Cris','Jimi']
 # criando uma serie onde os indices sao as matriculas e os nomes sao os valores
-alunos = pd.Series(lst_nomes,index=lst_matriculas)
+alunos = pd.Series(lista_nomes,index=lista_matriculas)
 
 # imprimindo as series
 print('---- Series Notas ----')
