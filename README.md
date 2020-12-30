@@ -1,4 +1,4 @@
 # Pandas Data Wrangling
 
 ## Exemplos
-[Series](Series.py)
+[Series](series.py)
